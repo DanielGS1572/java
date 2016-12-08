@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cara&apos; in &apos;Capitulo6.EnterosAleatorios.main(...)&apos; to &apos;frecuencia&apos;&#x0A;- Original project: &apos;Deitel&amp;Deitel&apos;&#x0A;- Original element: &apos;Capitulo6.EnterosAleatorios.main(String[]).cara&apos;&#x0A;- Renamed element: &apos;cara&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cara&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;Capitulo6{EnterosAleatorios.java[EnterosAleatorios~main~\[QString;@cara!165!188!169!172!\[I!0!false" name="frecuencia" references="true" stamp="1477963011046" version="1.0"/>
+</session>

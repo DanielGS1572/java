@@ -1,0 +1,38 @@
+package com.example.tienda;
+
+import com.vaadin.ui.Alignment;
+import com.vaadin.ui.Button;
+import com.vaadin.ui.Button.ClickEvent;
+import com.vaadin.ui.Label;
+import com.vaadin.ui.Notification;
+import com.vaadin.ui.Table;
+import com.vaadin.ui.VerticalLayout;
+
+public class ListadoCliente {
+	Button boton = new Button("Calcular suma");
+
+	
+	boton.addClickListener(new Button.ClickListener() {
+
+		@Override
+		public void buttonClick(ClickEvent event) {
+
+			VerticalLayout verticalLayout = new VerticalLayout();
+			verticalLayout.setMargin(true);
+			setContent(verticalLayout);
+
+			// TODO Auto-generated method stub
+			Notification.show("CLICKED");
+			ListadoTienda.reset();
+			Table tablaCliente = new Table();
+			tablaCliente = ListadoTienda.getDetalle();
+			verticalLayout.addComponent(tablaCliente);
+			verticalLayout.setComponentAlignment(tablaCliente, Alignment.TOP_RIGHT);
+			verticalLayout.addComponent(new Label("La suma es: " + ListadoTienda.obtieneSuma()));
+
+		}
+
+	});
+	verticalLayout.addComponent(boton);
+	verticalLayout.setComponentAlignment(boton, Alignment.MIDDLE_CENTER);
+}

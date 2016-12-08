@@ -1,0 +1,11 @@
+package com.example.tienda;
+
+import com.vaadin.server.VaadinRequest;
+import com.vaadin.ui.UI;
+import com.vaadin.ui.VerticalLayout;
+
+public class ElementosPantalla {
+	
+	
+	static VerticalLayout verticalLayout = new VerticalLayout();
+}

@@ -1,0 +1,11 @@
+#Tomcat publish data
+#Thu Sep 01 10:33:45 CDT 2016
+org.eclipse.jst.jee.server\:time-it=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/time-it
+org.eclipse.jst.jee.server\:service=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/service
+org.eclipse.jst.jee.server\:welcome=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/welcome
+org.eclipse.jst.jee.server\:Tienda3=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/Tienda3
+org.eclipse.jst.jee.server\:StaticTest=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/StaticTest
+org.eclipse.jst.jee.server\:Tienda2=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/Tienda2
+org.eclipse.jst.jee.server\:AltaProductos=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/AltaProductos
+org.eclipse.jst.jee.server\:Binding=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/Binding
+org.eclipse.jst.jee.server\:GridTest=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/GridTest

@@ -1,0 +1,5 @@
+package com.example.tienda;
+
+public class ListadoCliente {
+	Table tabla = new Table()
+}

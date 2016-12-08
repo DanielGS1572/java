@@ -1,0 +1,7 @@
+package com.example.tienda;
+
+import com.vaadin.ui.Table;
+
+public class ListadoCliente {
+	Table tabla = new Table();
+}

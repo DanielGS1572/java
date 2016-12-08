@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.example.service.MyUI.getPostService(...)&apos; to &apos;postService&apos;&#x0A;- Original project: &apos;service&apos;&#x0A;- Original element: &apos;com.example.service.MyUI.getPostService(...)&apos;&#x0A;- Renamed element: &apos;com.example.service.MyUI.postService(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;getPostService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src\/main\/java&lt;com.example.service{MyUI.java[MyUI~getPostService~QJsonObject;" name="postService" references="true" stamp="1471639177504" version="1.0"/>
+</session>

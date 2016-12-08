@@ -1,0 +1,9 @@
+@import "addons.scss";
+@import "tienda3.scss";
+
+/* This file prefixes all rules with the theme name to avoid causing conflicts with other themes. */
+/* The actual styles should be defined in tienda3.scss */
+.tienda3 {
+  @include addons;
+  @include tienda3;
+}

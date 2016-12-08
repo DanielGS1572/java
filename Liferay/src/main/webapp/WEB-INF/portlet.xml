@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd
+             http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd"
+	version="2.0">
+
+
+	<!-- Portlet de alta de productos -->
+	<portlet>
+		<description>Portlet para dar de alta los productos que verá el
+			cliente con sus precios</description>
+		<portlet-name>Portlet de productos</portlet-name>
+		<display-name>Portlet Productos</display-name>
+
+		<portlet-class>com.example.vaadin.CustomVaadinPortlet</portlet-class>
+
+		<init-param>
+			<name>UI</name>
+			<value>com.example.liferay.front.AltaProductos</value>
+		</init-param>
+
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+
+
+		<portlet-info>
+			<title>Portlet Productos</title>
+			<short-title>Alta de productos</short-title>
+			<keywords>AltaProductos</keywords>
+		</portlet-info>
+
+		<security-role-ref>
+			<role-name>administrator</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>guest</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>power-user</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>user</role-name>
+		</security-role-ref>
+
+	</portlet>
+	<!-- Portlet de alta de combos -->
+	<portlet>
+		<description>Portlet para dar de alta los combos</description>
+		<portlet-name>Portlet de combos</portlet-name>
+		<display-name>Portlet combos</display-name>
+
+		<portlet-class>com.example.vaadin.CustomVaadinPortlet</portlet-class>
+
+		<init-param>
+			<name>UI</name>
+			<value>com.example.liferay.front.AltaCombos</value>
+		</init-param>
+
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+
+
+		<portlet-info>
+			<title>Portlet combos</title>
+			<short-title>Alta de combos</short-title>
+			<keywords>AltaCombos</keywords>
+		</portlet-info>
+
+		<security-role-ref>
+			<role-name>administrator</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>guest</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>power-user</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>user</role-name>
+		</security-role-ref>
+
+	</portlet>
+	
+	<!-- Portlet de alta de promociones -->
+	<portlet>
+		<description>Portlet para dar de alta las promociones</description>
+		<portlet-name>Portlet de promociones</portlet-name>
+		<display-name>Portlet Promociones</display-name>
+
+		<portlet-class>com.example.vaadin.CustomVaadinPortlet</portlet-class>
+
+		<init-param>
+			<name>UI</name>
+			<value>com.example.liferay.front.AltaPromociones</value>
+		</init-param>
+
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+
+
+		<portlet-info>
+			<title>Portlet Promociones</title>
+			<short-title>Alta de promociones</short-title>
+			<keywords>AltaProductos</keywords>
+		</portlet-info>
+
+		<security-role-ref>
+			<role-name>administrator</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>guest</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>power-user</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>user</role-name>
+		</security-role-ref>
+
+	</portlet>
+	
+	<!-- Portlet de catalogo de productos -->
+	<portlet>
+		<description>Portlet para que el cliente vea los diferentes productos</description>
+		<portlet-name>Portlet de productosCliente</portlet-name>
+		<display-name>Portlet ProductosCliente</display-name>
+
+		<portlet-class>com.example.vaadin.CustomVaadinPortlet</portlet-class>
+
+		<init-param>
+			<name>UI</name>
+			<value>com.example.liferay.front.ComprasClientes</value>
+		</init-param>
+
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+
+
+		<portlet-info>
+			<title>Portlet ProductosCliente</title>
+			<short-title>Productos</short-title>
+			<keywords>VerProductos</keywords>
+		</portlet-info>
+
+		<security-role-ref>
+			<role-name>administrator</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>guest</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>power-user</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>user</role-name>
+		</security-role-ref>
+
+	</portlet>
+</portlet-app>

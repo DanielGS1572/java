@@ -1,0 +1,9 @@
+@import "addons.scss";
+@import "time_it.scss";
+
+/* This file prefixes all rules with the theme name to avoid causing conflicts with other themes. */
+/* The actual styles should be defined in time_it.scss */
+.time_it {
+  @include addons;
+  @include time_it;
+}
