@@ -14,6 +14,12 @@ public class AnnotationDemoApp {
 		//llamar los metodos del bean
 		System.out.println(theCoach.getDailyWorkout());
 		
+		
+		//Constructor Injection --> se debe de implementar la interfaz y hacer override
+		//no cambia la forma en la que se manda llamar el metodo con el bean
+		//ya sea constructor o setter siempre sera igual
+		System.out.println(theCoach.getDailyFortune());
+		
 		//cerar el contexto
 		context.close();
 

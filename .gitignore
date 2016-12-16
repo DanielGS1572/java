@@ -1,0 +1,60 @@
+*/.classpath
+*/.project
+*/*.class
+*/*.project
+/.settings/
+*/bin/
+.classpath
+.project
+.settings/
+.settings/**
+.metadata/**
+.recommenders/**
+
+*.class
+*.project
+*.classpath
+
+*/target/*
+*/target/**
+
+*/.gitignore
+
+*/**/MANIFEST.MF
+
+.cache-main
+.cache-tests
+
+*/.cache-main
+*/.cache-tests
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+# Logs and databases #
+######################
+*.log
+
+
+*.iml
+.iml
+.idea
+*.idea
+
+/.idea
+
