@@ -60,6 +60,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.example.spring"/>
 			<item value="com.example.binding"/>
 			<item value="com.example.myapplicationVaadin"/>
 			<item value="com.example.service"/>
@@ -71,6 +72,7 @@
 			<item value="com.example"/>
 		</list>
 		<list key="artifactId">
+			<item value="spring"/>
 			<item value="binding"/>
 			<item value="myapplicationVaadin"/>
 			<item value="service"/>
@@ -87,12 +89,13 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0-SNAPSHOT"/>
 			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0-SNAPSHOT"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/MitoCode/src"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

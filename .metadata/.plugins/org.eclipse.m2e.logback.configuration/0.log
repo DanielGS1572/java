@@ -10926,3 +10926,390 @@ org.apache.maven.archetype.old.ArchetypeTemplateProcessingException: Directory t
 2016-12-14 19:49:05,861 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve com.vaadin:vaadin-client-compiler based on project POM
 2016-12-14 19:49:05,862 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.6.8
 2016-12-14 19:49:05,918 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - com.example.service.MyAppWidgetset is up to date. GWT compilation skipped
+2016-12-19 19:40:45,635 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/ was cached in the local repository, resolution will not be reattempted until the update interval of liferay-releases-plugins has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from/to liferay-releases-plugins (http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/): Access denied to http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/org/apache/maven/plugins/maven-eclipse-plugin/maven-metadata.xml. Error code 401, Unauthorized
+2016-12-19 19:40:47,846 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:40:47,917 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-19 19:40:47,923 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:40:47,936 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/Copy of Liferay/src/test/resources
+2016-12-19 19:40:50,623 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/ was cached in the local repository, resolution will not be reattempted until the update interval of liferay-releases-plugins has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from/to liferay-releases-plugins (http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/): Access denied to http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/org/apache/maven/plugins/maven-eclipse-plugin/maven-metadata.xml. Error code 401, Unauthorized
+2016-12-19 19:40:50,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:40:50,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-19 19:40:50,658 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:40:50,658 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/Liferay/src/test/resources
+2016-12-19 19:40:51,682 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/ was cached in the local repository, resolution will not be reattempted until the update interval of liferay-releases-plugins has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from/to liferay-releases-plugins (http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/): Access denied to http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/org/apache/maven/plugins/maven-eclipse-plugin/maven-metadata.xml. Error code 401, Unauthorized
+2016-12-19 19:40:51,867 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:40:51,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-19 19:40:51,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:40:51,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/Liferay2/src/test/resources
+2016-12-19 19:40:53,168 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/ was cached in the local repository, resolution will not be reattempted until the update interval of liferay-releases-plugins has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-eclipse-plugin/maven-metadata.xml from/to liferay-releases-plugins (http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/): Access denied to http://repository.liferay.com/nexus/content/repositories/liferay-releases-ce/org/apache/maven/plugins/maven-eclipse-plugin/maven-metadata.xml. Error code 401, Unauthorized
+2016-12-19 19:41:00,521 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/mytheme
+2016-12-19 19:41:02,891 [Thread-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2016-12-19 19:41:02,892 [Thread-25] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.example.myapplication.MyAppWidgetset in file:/Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/myapplication/target/classes
+2016-12-19 19:41:02,892 [Thread-25] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:/Users/Admin/.m2/repository/com/vaadin/vaadin-client/7.6.8/vaadin-client-7.6.8.jar!/
+2016-12-19 19:41:02,892 [Thread-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2016-12-19 19:41:02,897 [Thread-25] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2016-12-19 19:41:02,898 [Thread-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 129ms
+2016-12-19 19:41:02,996 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/mytheme" updated
+2016-12-19 19:41:03,006 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/mytheme
+2016-12-19 19:41:10,668 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/mytheme" compiled
+2016-12-19 19:41:11,207 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:41:11,208 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-19 19:41:11,221 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.example.myapplication.MyAppWidgetset]
+2016-12-19 19:41:11,221 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset com.example.myapplication.MyAppWidgetset
+2016-12-19 19:41:11,222 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/myapplication/src/main/resources
+2016-12-19 19:41:11,239 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve com.vaadin:vaadin-client-compiler based on project POM
+2016-12-19 19:41:11,285 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.6.8
+2016-12-19 19:41:16,881 [Thread-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2016-12-19 19:41:16,913 [Thread-29] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.example.myapplication.MyAppWidgetset in file:/Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/myapplication/src/main/resources
+2016-12-19 19:41:16,913 [Thread-29] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:/Users/Admin/.m2/repository/com/vaadin/vaadin-client/7.6.8/vaadin-client-7.6.8.jar!/
+2016-12-19 19:41:16,914 [Thread-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2016-12-19 19:41:16,914 [Thread-29] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2016-12-19 19:41:16,914 [Thread-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 59ms
+2016-12-19 19:41:16,974 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:41:16,974 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/myapplication/src/test/resources
+2016-12-19 19:41:17,064 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.example.myapplication.MyAppWidgetset]
+2016-12-19 19:41:17,064 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve com.vaadin:vaadin-client-compiler based on project POM
+2016-12-19 19:41:17,102 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.6.8
+2016-12-19 19:41:17,251 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - com.example.myapplication.MyAppWidgetset is up to date. GWT compilation skipped
+2016-12-19 19:41:21,212 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/mytheme
+2016-12-19 19:41:21,675 [Thread-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2016-12-19 19:41:21,675 [Thread-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.example.service.MyAppWidgetset in file:/Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/service/target/classes
+2016-12-19 19:41:21,675 [Thread-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:/Users/Admin/.m2/repository/com/vaadin/vaadin-client/7.6.8/vaadin-client-7.6.8.jar!/
+2016-12-19 19:41:21,675 [Thread-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2016-12-19 19:41:21,675 [Thread-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2016-12-19 19:41:21,675 [Thread-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 26ms
+2016-12-19 19:41:21,698 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/mytheme" updated
+2016-12-19 19:41:21,708 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/mytheme
+2016-12-19 19:41:28,201 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/mytheme" compiled
+2016-12-19 19:41:28,215 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:41:28,215 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-19 19:41:28,224 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.example.service.MyAppWidgetset]
+2016-12-19 19:41:28,224 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset com.example.service.MyAppWidgetset
+2016-12-19 19:41:28,224 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/service/src/main/resources
+2016-12-19 19:41:28,224 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve com.vaadin:vaadin-client-compiler based on project POM
+2016-12-19 19:41:28,259 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.6.8
+2016-12-19 19:41:29,745 [Thread-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2016-12-19 19:41:29,745 [Thread-37] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.example.service.MyAppWidgetset in file:/Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/service/src/main/resources
+2016-12-19 19:41:29,746 [Thread-37] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:/Users/Admin/.m2/repository/com/vaadin/vaadin-client/7.6.8/vaadin-client-7.6.8.jar!/
+2016-12-19 19:41:29,746 [Thread-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2016-12-19 19:41:29,746 [Thread-37] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2016-12-19 19:41:29,746 [Thread-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 20ms
+2016-12-19 19:41:29,780 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-19 19:41:29,781 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/service/src/test/resources
+2016-12-19 19:41:29,793 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.example.service.MyAppWidgetset]
+2016-12-19 19:41:29,793 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve com.vaadin:vaadin-client-compiler based on project POM
+2016-12-19 19:41:29,794 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.6.8
+2016-12-19 19:41:29,879 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - com.example.service.MyAppWidgetset is up to date. GWT compilation skipped
+2016-12-19 19:41:31,992 [Worker-34] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - Resource '/Liferay/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/Liferay/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335) ~[na:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209) ~[na:na]
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:823) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.deleteMarkers(MavenMarkerManager.java:229) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.deleteMarkers(MavenMarkerManager.java:223) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:694) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:398) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:87) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-19 19:41:37,745 [Worker-33] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project resttest
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project resttest
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-19 19:41:37,852 [Worker-33] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project resttest
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project resttest
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-19 19:41:37,950 [Worker-33] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project resttest
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project resttest
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-19 19:47:20,959 [Thread-45] ERROR org.eclipse.jgit.util.FS - fatal: Could not switch to '/Library/Developer/CommandLineTools/usr/etc/': No such file or directory
+
+2016-12-20 19:08:46,359 [Thread-17] ERROR org.eclipse.jgit.util.FS - fatal: Could not switch to '/Library/Developer/CommandLineTools/usr/etc/': No such file or directory
+
+2016-12-20 19:49:47,145 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml
+2016-12-20 19:49:56,226 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 19:49:58,258 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2016-12-20 19:49:58,273 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2016-12-20 19:49:58,492 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2016-12-20 19:49:59,678 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:49:59,679 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:49:59,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:49:59,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:50:38,199 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:50:38,199 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:50:38,200 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:50:38,202 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:50:58,130 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:50:58,131 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:50:58,132 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:50:58,132 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:51:32,454 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 19:51:33,585 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.pom
+2016-12-20 19:51:33,666 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.pom
+2016-12-20 19:51:33,719 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.pom
+2016-12-20 19:51:33,769 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.pom
+2016-12-20 19:51:33,840 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.pom
+2016-12-20 19:51:33,896 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.pom
+2016-12-20 19:51:33,970 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.pom
+2016-12-20 19:51:34,136 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.pom
+2016-12-20 19:51:34,255 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.pom
+2016-12-20 19:51:34,305 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.pom
+2016-12-20 19:51:34,370 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar
+2016-12-20 19:51:34,880 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar
+2016-12-20 19:51:34,932 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,064 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,111 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,316 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,379 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,691 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,745 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar
+2016-12-20 19:51:35,841 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar
+2016-12-20 19:51:36,333 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:51:36,333 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:51:36,335 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:51:36,335 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:51:37,957 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:51:37,957 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:51:37,958 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:51:37,958 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:53:23,409 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-20 19:53:25,696 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 19:53:26,423 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2016-12-20 19:53:26,424 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2016-12-20 19:53:27,063 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-12-20 19:53:27,672 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:53:27,672 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:53:27,674 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:53:27,674 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:55:10,240 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:55:10,240 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:55:10,241 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:55:10,241 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:55:23,476 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:55:23,476 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:55:23,478 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:55:23,478 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:55:42,875 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:55:42,876 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/main/resources
+2016-12-20 19:55:42,877 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:55:42,877 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:57:34,251 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:57:34,286 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-20 19:57:34,287 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:57:34,288 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:58:01,617 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:58:01,632 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-20 19:58:01,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:58:01,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:58:57,885 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:58:57,886 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 19:58:57,916 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:58:57,916 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 19:58:58,930 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:58:58,930 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-20 19:58:58,932 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 19:58:58,932 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:01:37,842 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:01:37,842 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:01:37,844 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:01:37,844 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:02:23,831 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:02:23,872 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:02:23,873 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:02:23,873 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:04:13,891 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:04:13,891 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:04:13,893 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:04:13,893 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:06:54,305 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:06:54,305 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:06:54,306 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:06:54,306 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:07:28,991 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:07:28,992 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:07:28,993 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:07:28,993 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:09:43,929 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:09:43,930 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:09:43,931 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:09:43,931 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:10:54,744 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-20 20:10:57,576 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 20:10:58,224 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2016-12-20 20:10:58,225 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring/src/main/resources
+2016-12-20 20:10:58,255 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2016-12-20 20:10:58,488 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-12-20 20:10:58,900 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:10:58,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:10:58,954 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:10:58,954 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:11:29,458 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 20:11:29,752 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:11:29,754 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-20 20:11:29,755 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:11:29,756 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:11:48,422 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-20 20:11:48,650 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 20:11:48,764 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2016-12-20 20:11:48,764 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring/src/main/resources
+2016-12-20 20:11:48,765 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2016-12-20 20:11:48,826 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-20 20:11:49,002 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:11:49,003 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:11:49,012 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:11:49,012 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:12:02,615 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-20 20:12:02,825 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring:0.0.1-SNAPSHOT @ /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/pom.xml.
+2016-12-20 20:12:02,933 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2016-12-20 20:12:02,933 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring/src/main/resources
+2016-12-20 20:12:02,934 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2016-12-20 20:12:03,044 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-20 20:12:03,269 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:12:03,275 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:12:03,282 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:12:03,282 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:14:02,408 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:14:02,435 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:14:02,437 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:14:02,438 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:14:29,618 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:14:29,619 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:14:29,620 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:14:29,620 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:14:55,555 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:14:55,556 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:14:55,557 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:14:55,557 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:15:10,600 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:15:10,601 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:15:10,602 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:15:10,602 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:15:15,763 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:15:15,769 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:15:15,770 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:15:15,770 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:27:46,305 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:27:46,367 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:27:46,369 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:27:46,370 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:28:20,647 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:28:20,648 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:28:20,650 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:28:20,650 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:28:45,361 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:28:45,361 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:28:45,362 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:28:45,362 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:30:53,112 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:30:53,112 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:30:53,113 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:30:53,113 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:31:43,857 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:31:43,858 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:31:43,859 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:31:43,859 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:32:03,959 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:03,960 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:32:03,961 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:03,961 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:32:21,473 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:21,474 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:32:21,475 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:21,475 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:32:24,371 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:24,371 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:32:24,372 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:24,372 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:32:43,724 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:43,725 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:32:43,726 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:32:43,726 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:33:23,274 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:33:23,275 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:33:23,277 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:33:23,277 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:34:16,821 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:34:16,822 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:34:16,824 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:34:16,825 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources
+2016-12-20 20:34:19,080 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:34:19,081 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:34:19,082 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-20 20:34:19,082 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Admin/Documents/workspace-sts-3.8.0.RELEASE/spring/src/test/resources

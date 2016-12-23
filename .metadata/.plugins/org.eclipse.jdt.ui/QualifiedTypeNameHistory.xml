@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.vaadin.data.Property.ValueChangeListener"/>
-<fullyQualifiedTypeName name="com.vaadin.server.VaadinRequest"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="com.vaadin.ui.VerticalLayout"/>
-<fullyQualifiedTypeName name="com.vaadin.data.Property.ValueChangeEvent"/>
 <fullyQualifiedTypeName name="com.vaadin.ui.OptionGroup"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="com.vaadin.ui.TwinColSelect"/>
@@ -59,5 +54,10 @@
 <fullyQualifiedTypeName name="java.lang.Double"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="InyeccionDependenciasFundamentos.IEquipo"/>
+<fullyQualifiedTypeName name="InyeccionDependenciasFundamentos.Juventus"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="com.example.spring.AppAnotaciones"/>
 </qualifiedTypeNameHistroy>
