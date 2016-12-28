@@ -6,9 +6,12 @@ package Capitulo4.Encapsulacion3;
 
 //La idea de la encapsulación es mantener los atributos de los objetos como privados
 //y proporcionar acceso de los mismos a traves de metodos publicos
+
+// Hay dos formas de acceder a los campos privados de una clase:
+// - A través de su constructor
+// - A través de los getters/setters
 class Rectangulo {
 	private int alto, ancho;
-
 	public int getAlto() {
 		return alto;
 	}
