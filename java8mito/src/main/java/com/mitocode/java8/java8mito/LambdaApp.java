@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+// Las lambdas se pueden aplicar a las clases anonimas, se les pasa los parametros de lo que se esta sobreescribiendo, primero los parametros -> despues el resultado
 public class LambdaApp {
 
 	public void ordernar() {
