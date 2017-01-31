@@ -3,8 +3,7 @@ package Java8;
 public class ParadigmaFuncional2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+// Una expresión lambda es un metodo anonimo que no necesita de un identificador para ser invocado
 	}
 
 }
