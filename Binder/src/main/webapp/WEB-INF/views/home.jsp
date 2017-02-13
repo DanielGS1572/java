@@ -18,7 +18,8 @@
 		
 		getters()/setters()
 		 -->
-	<form:form commandName="user" method="POST"> <!-- Esto es lo que spring usa para comunicarse con el controller, es un "sprin form", no una forma de HTML -->
+	<form:form commandName="user" method="POST"> <!-- Esto es lo que spring usa para comunicarse con el controller, 
+	es un "spring form", no una forma de HTML -->
 	<!-- commandName es lo que vincula con el modelo del MVC -->
 
 		username: <input type="text" id="username">
