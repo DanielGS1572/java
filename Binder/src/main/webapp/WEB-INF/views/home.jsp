@@ -11,19 +11,24 @@
 <body>
 	<h1>Hello world!</h1>
 	<!-- El chiste del commandName es que poble un objeto de jsp a uno de java con sus atributos correspondientes -->
-	
+
 	<!-- User.java
-		private String username
+		private String username	(A)		-- ver que los campos pueden ser declarados como private
 		private String password
 		
 		getters()/setters()
 		 -->
-	<form:form commandName="user" method="POST"> <!-- Esto es lo que spring usa para comunicarse con el controller, 
-	es un "spring form", no una forma de HTML -->
-	<!-- commandName es lo que vincula con el modelo del MVC -->
-
+	<form:form commandName="userObject" method="POST">
+		<!-- Esto es lo que spring usa para comunicarse con el controller, es un "sprin form", no una forma de HTML -->
+		<!-- commandName es lo que vincula con el modelo del MVC -->
+		
+		<!-- Esto es la forma vieja de meter los campos, como se esta usando Hibernate se hace de forma diferente 
 		username: <input type="text" id="username">
-		password: <input type="password" id="password">
+		password: <input type="password" id="password">	-->
+
+username: <form:input path="username"/> <!-- path es para indicar la forma de asociar con la variable de instancia (A) [internamente usa setUsername]-->
+password: <form:password path="password"/>
+
 		<input type="submit" id="submitBtn" value="submit">
 	</form:form>
 
