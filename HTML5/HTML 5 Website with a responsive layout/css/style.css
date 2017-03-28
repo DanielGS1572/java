@@ -11,5 +11,47 @@ body{
 .container{
     width: 80%; /* Como es una pagina web responsiva se pone un porcentaje, no un tamaño fijo*/
     margin: auto; /*Por default lo deja a la izquierda, poniendole auto lo centra*/
-    
+    overflow: hidden; /*"si algo se sale del div, no se quiere tener un scroll"*/
+
+}
+
+ul{
+    margin:0;
+    padding: 0;     /*Esto hace que se desaparezcan los bullets*/
+}
+
+header{
+    background: #35424a;
+    color:#ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: 70px;    /*En lugar de setear la altura, se define un min-height para cuando se tienen pantallas pequeñas y no se desborde la linea */
+    border-bottom: #e8491d 3px solid;       /*Sin solid no pone la linea*/
+}
+
+header a{
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+
+header li{
+    float:left;     /* ¿Para que sirve float????? */
+    display: inline;
+    padding: 0 20px 0 20px ;      /*top right botton left */
+}
+
+header #branding{
+    float: left;
+}
+
+header #branding h1{
+    margin: 0;
+}
+
+header nav{
+    float:right;
+    margin-top: 10px;
 }
