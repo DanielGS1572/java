@@ -78,7 +78,7 @@ header a:hover{     /* Ver como no se pone ul ó li Duda: revisar como se usan l
 /*Showcase*/
 #showcase{
     min-height: 400px; /*Esto lo hace responsivo Duda: ver como funciona min-height --> esto delimita el tamaño de la imagen*/
-    background:url('../img/showcase.jpg') no-repeat 0/*eje de las x*/ -400px /*Eje de las y*/; /*Creo que el no-repeat hace que no lo pegue cuando sean imagenes pequeñas Duda: validarlo*/
+    background:url('../img/showcase.jpg') no-repeat 0/*eje de las x*/ -1000px /*Eje de las y*/; /*Creo que el no-repeat hace que no lo pegue cuando sean imagenes pequeñas Duda: validarlo*/
     text-align:center;
     color:#FFFFFF;
 
@@ -121,7 +121,7 @@ header a:hover{     /* Ver como no se pone ul ó li Duda: revisar como se usan l
 #boxes .box{
     float: left;
     text-align: center;  /*Duda: como funciona text-align? porque agarra también la imagen?*/
-    width: 32%; /*se esta seteando el tamaño de cada imagen con su texto*/
+    width: 30%; /*se esta seteando el tamaño de cada imagen con su texto*/
     padding:10px;
 }
 

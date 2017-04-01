@@ -47,7 +47,7 @@
 		<item value="529" key="DIALOG_WIDTH"/>
 		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
 		<item value="639" key="DIALOG_HEIGHT"/>
-		<item value="671" key="DIALOG_X_ORIGIN"/>
+		<item value="403" key="DIALOG_X_ORIGIN"/>
 		<item value="163" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">

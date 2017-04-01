@@ -1,4 +1,4 @@
-package Certification;
+package Certificacion;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ public class ArrayListUsage {
 		list.add("Howdy");
 		list.add(2,"Hello!!!");
 		if(list.contains("Hello!!!"))
-			System.out.println(list.indexOf("Hello!!!") + " xxxx");
+			System.out.println(list.contains("Hello!!!") + " xxxx");
 		System.out.println(list.get(2));
 	}
 

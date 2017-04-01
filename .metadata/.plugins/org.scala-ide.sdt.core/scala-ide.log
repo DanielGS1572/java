@@ -11174,3 +11174,344 @@ INFORMACIÓN: HTTP Response code :200
 INFORMACIÓN: Parse notifications
 2017-03-27 18:46:15,485 ERROR [Worker-3321] - System.err - mar 27, 2017 6:46:15 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
 INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-27 20:07:02,467 ERROR [main] - System.err - mar 27, 2017 8:07:02 PM com.vaadin.integration.eclipse.notifications.ContributionService refreshNotifications
+INFORMACIÓN: Schedule fetching all notifications
+2017-03-27 20:07:02,501 ERROR [main] - System.err - mar 27, 2017 8:07:02 PM com.vaadin.integration.eclipse.notifications.ContributionService startVersionJobs
+INFORMACIÓN: Schedule version update jobs
+2017-03-27 20:07:08,623 ERROR [Worker-8] - System.err - mar 27, 2017 8:07:08 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-27 20:07:08,628 ERROR [Worker-10] - System.err - mar 27, 2017 8:07:08 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Requesting user info (notification settings URL)
+2017-03-27 20:07:17,299 ERROR [Worker-8] - System.err - mar 27, 2017 8:07:17 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-27 20:07:17,299 ERROR [Worker-10] - System.err - mar 27, 2017 8:07:17 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-27 20:07:17,394 ERROR [Worker-8] - System.err - mar 27, 2017 8:07:17 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-27 20:07:17,607 ERROR [Worker-8] - System.err - mar 27, 2017 8:07:17 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-27 20:07:19,870 ERROR [main] - System.err - mar 27, 2017 8:07:19 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-27 20:07:38,082 ERROR [Worker-10] - System.err - mar 27, 2017 8:07:38 PM com.vaadin.integration.eclipse.notifications.jobs.nightly.NightlyCheckJob checkProjects
+INFORMACIÓN: Projects with nightly versions : []
+2017-03-27 20:07:38,137 ERROR [Worker-10] - System.err - mar 27, 2017 8:07:38 PM com.vaadin.integration.eclipse.notifications.jobs.nightly.NightlyCheckJob checkProjects
+INFORMACIÓN: All vaadin 7 projects : []
+2017-03-27 20:16:07,279 ERROR [main] - System.err - Warning: NLS unused message: Advanced_options_19 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,295 ERROR [main] - System.err - Warning: NLS unused message: After_configuring_the_project__1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,295 ERROR [main] - System.err - Warning: NLS unused message: Automatically_import_the_local_resources_into_the_repository_3 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: ConfigureTagsFromRepoViewConfigure_Tag_Error_1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: Configure_the_options_used_for_the_SVN_diff_command_20 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: Context_14 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: Do_nothing_5 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: Example__1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: ExtMethodPreferencePage_Add_Variable in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: ExtMethodPreferencePage_Browse in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: ExtMethodPreferencePage_Details in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: ExtMethodPreferencePage_SVN_SERVER__7 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,296 ERROR [main] - System.err - Warning: NLS unused message: ExtMethodPreferencePage_message in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,298 ERROR [main] - System.err - Warning: NLS unused message: Icon_Overlays_24 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,299 ERROR [main] - System.err - Warning: NLS unused message: Open_the_Synchronize_view_on_the_project_2 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,299 ERROR [main] - System.err - Warning: NLS unused message: browse in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,301 ERROR [main] - System.err - Warning: NLS unused message: Run_update_4 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,301 ERROR [main] - System.err - Warning: NLS unused message: S&how_is_added_moved in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,302 ERROR [main] - System.err - Warning: NLS unused message: Sho&w_outgoing_25 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,354 ERROR [main] - System.err - Warning: NLS unused message: Show_has_&remote_26 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,354 ERROR [main] - System.err - Warning: NLS unused message: Standard_15 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,355 ERROR [main] - System.err - Warning: NLS unused message: UpdateMergeActionProblems_merging_remote_resources_into_workspace_1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,355 ERROR [main] - System.err - Warning: NLS unused message: UpdateMergeActionProblems_merging_remote_resources_into_workspace_2 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: Validate_Connection_on_Finish_7 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: buildError in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: confirmOverwrite in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: confirmOverwriteTitle in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: currentRevision in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: details in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: error in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: exception in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: flag_indicating_that_the_folder_has_a_child_resource_with_outgoing_changes_41 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: information in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,356 ERROR [main] - System.err - Warning: NLS unused message: internal in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: keyword_substitution_rule_for_the_resource_44 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: localChanges in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: nameAndRevision in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: no in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: prompt in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: noauthor in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: notAvailable in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: ok in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: question in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: repository_home_directory_on_server_39 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: root_relative_directory_40 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: separator in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: simpleInternal in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: svn in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,357 ERROR [main] - System.err - Warning: NLS unused message: the_repository_location__s_hostname_36 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,358 ERROR [main] - System.err - Warning: NLS unused message: the_tag_applied_to_the_resource_(version,_branch,_or_date)_35 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,358 ERROR [main] - System.err - Warning: NLS unused message: the_tag_applied_to_the_resource_43 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,358 ERROR [main] - System.err - Warning: NLS unused message: user_name_for_the_connection_38 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,358 ERROR [main] - System.err - Warning: NLS unused message: yes in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: AnnotateOperation_QDAnnotateTitle in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: AnnotateOperation_QDAnnotateMessage in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: AnnotateOperation_4 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: SVNConflicts in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: WorkspaceChangeSetCapability_1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: WorkspaceChangeSetCapability_2 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: WorkspaceChangeSetCapability_3 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: WorkspaceChangeSetCapability_7 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: WorkspaceChangeSetCapability_8 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: OpenChangeSetAction_0 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,359 ERROR [main] - System.err - Warning: NLS unused message: OpenChangeSetAction_1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: OpenCommitSetAction_20 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: OpenCommitSetAction_21 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CVSChangeSetCollector_0 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CVSChangeSetCollector_4 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: WorkspaceSubscriberContext_0 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitSetDialog_0 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitSetDialog_2 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitSetDialog_3 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_0 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_1 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_2 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_3 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_4 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_5 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-27 20:16:07,360 ERROR [main] - System.err - Warning: NLS unused message: CommitCommentArea_6 in: org.tigris.subversion.subclipse.ui.messages
+2017-03-28 00:07:20,022 ERROR [main] - System.err - mar 28, 2017 12:07:20 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-28 00:07:20,096 ERROR [Worker-40] - System.err - mar 28, 2017 12:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-28 00:07:20,539 ERROR [Worker-40] - System.err - mar 28, 2017 12:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-28 00:07:20,540 ERROR [Worker-40] - System.err - mar 28, 2017 12:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-28 00:07:20,564 ERROR [Worker-40] - System.err - mar 28, 2017 12:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-28 04:07:20,060 ERROR [main] - System.err - mar 28, 2017 4:07:20 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-28 04:07:20,115 ERROR [Worker-61] - System.err - mar 28, 2017 4:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-28 04:07:21,075 ERROR [Worker-61] - System.err - mar 28, 2017 4:07:21 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-28 04:07:21,075 ERROR [Worker-61] - System.err - mar 28, 2017 4:07:21 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-28 04:07:21,111 ERROR [Worker-61] - System.err - mar 28, 2017 4:07:21 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-28 08:07:20,100 ERROR [main] - System.err - mar 28, 2017 8:07:20 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-28 08:07:20,164 ERROR [Worker-80] - System.err - mar 28, 2017 8:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-28 08:07:20,872 ERROR [Worker-80] - System.err - mar 28, 2017 8:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-28 08:07:20,876 ERROR [Worker-80] - System.err - mar 28, 2017 8:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-28 08:07:20,916 ERROR [Worker-80] - System.err - mar 28, 2017 8:07:20 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-28 12:07:23,659 ERROR [main] - System.err - mar 28, 2017 12:07:20 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-28 12:07:24,210 ERROR [Worker-109] - System.err - mar 28, 2017 12:07:23 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-28 12:07:25,046 ERROR [Worker-109] - System.err - mar 28, 2017 12:07:25 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-28 12:07:25,046 ERROR [Worker-109] - System.err - mar 28, 2017 12:07:25 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-28 12:07:25,261 ERROR [Worker-109] - System.err - mar 28, 2017 12:07:25 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-28 16:07:26,449 ERROR [main] - System.err - mar 28, 2017 4:07:24 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-28 16:07:26,676 ERROR [Worker-172] - System.err - mar 28, 2017 4:07:26 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-28 16:07:29,938 ERROR [Worker-172] - System.err - mar 28, 2017 4:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-28 16:07:29,989 ERROR [Worker-172] - System.err - mar 28, 2017 4:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-28 16:07:30,098 ERROR [Worker-172] - System.err - mar 28, 2017 4:07:30 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-28 20:07:27,650 ERROR [main] - System.err - mar 28, 2017 8:07:27 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-28 20:07:27,834 ERROR [Worker-202] - System.err - mar 28, 2017 8:07:27 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-28 20:07:29,454 ERROR [Worker-202] - System.err - mar 28, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-28 20:07:29,455 ERROR [Worker-202] - System.err - mar 28, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-28 20:07:29,543 ERROR [Worker-202] - System.err - mar 28, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-29 00:07:27,792 ERROR [main] - System.err - mar 29, 2017 12:07:27 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-29 00:07:27,848 ERROR [Worker-233] - System.err - mar 29, 2017 12:07:27 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-29 00:07:34,673 ERROR [Worker-233] - System.err - mar 29, 2017 12:07:34 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-29 00:07:34,689 ERROR [Worker-233] - System.err - mar 29, 2017 12:07:34 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-29 00:07:34,783 ERROR [Worker-233] - System.err - mar 29, 2017 12:07:34 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-29 04:07:27,877 ERROR [main] - System.err - mar 29, 2017 4:07:27 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-29 04:07:27,945 ERROR [Worker-241] - System.err - mar 29, 2017 4:07:27 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-29 04:07:28,764 ERROR [Worker-241] - System.err - mar 29, 2017 4:07:28 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-29 04:07:28,765 ERROR [Worker-241] - System.err - mar 29, 2017 4:07:28 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-29 04:07:28,848 ERROR [Worker-241] - System.err - mar 29, 2017 4:07:28 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-29 08:07:27,971 ERROR [main] - System.err - mar 29, 2017 8:07:27 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-29 08:07:28,532 ERROR [Worker-263] - System.err - mar 29, 2017 8:07:28 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-29 08:07:29,588 ERROR [Worker-263] - System.err - mar 29, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-29 08:07:29,589 ERROR [Worker-263] - System.err - mar 29, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-29 08:07:29,653 ERROR [Worker-263] - System.err - mar 29, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-29 12:07:28,531 ERROR [main] - System.err - mar 29, 2017 12:07:28 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-29 12:07:28,555 ERROR [Worker-273] - System.err - mar 29, 2017 12:07:28 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-29 12:07:33,777 ERROR [Worker-273] - System.err - mar 29, 2017 12:07:33 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-29 12:07:33,778 ERROR [Worker-273] - System.err - mar 29, 2017 12:07:33 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-29 12:07:33,821 ERROR [Worker-273] - System.err - mar 29, 2017 12:07:33 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-29 16:07:28,681 ERROR [main] - System.err - mar 29, 2017 4:07:28 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-29 16:07:28,737 ERROR [Worker-302] - System.err - mar 29, 2017 4:07:28 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-29 16:07:29,345 ERROR [Worker-302] - System.err - mar 29, 2017 4:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-29 16:07:29,346 ERROR [Worker-302] - System.err - mar 29, 2017 4:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-29 16:07:29,406 ERROR [Worker-302] - System.err - mar 29, 2017 4:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-29 20:07:28,775 ERROR [main] - System.err - mar 29, 2017 8:07:28 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-29 20:07:29,064 ERROR [Worker-325] - System.err - mar 29, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-29 20:07:29,783 ERROR [Worker-325] - System.err - mar 29, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-29 20:07:29,784 ERROR [Worker-325] - System.err - mar 29, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-29 20:07:29,810 ERROR [Worker-325] - System.err - mar 29, 2017 8:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-30 00:07:28,871 ERROR [main] - System.err - mar 30, 2017 12:07:28 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-30 00:07:28,942 ERROR [Worker-339] - System.err - mar 30, 2017 12:07:28 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-30 00:07:29,621 ERROR [Worker-339] - System.err - mar 30, 2017 12:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-30 00:07:29,622 ERROR [Worker-339] - System.err - mar 30, 2017 12:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-30 00:07:29,657 ERROR [Worker-339] - System.err - mar 30, 2017 12:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-30 04:07:28,977 ERROR [main] - System.err - mar 30, 2017 4:07:28 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-30 04:07:29,079 ERROR [Worker-372] - System.err - mar 30, 2017 4:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-30 04:07:29,995 ERROR [Worker-372] - System.err - mar 30, 2017 4:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-30 04:07:29,995 ERROR [Worker-372] - System.err - mar 30, 2017 4:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-30 04:07:30,026 ERROR [Worker-372] - System.err - mar 30, 2017 4:07:30 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-30 08:07:29,019 ERROR [main] - System.err - mar 30, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-30 08:07:29,089 ERROR [Worker-382] - System.err - mar 30, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-30 08:07:29,621 ERROR [Worker-382] - System.err - mar 30, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-30 08:07:29,622 ERROR [Worker-382] - System.err - mar 30, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-30 08:07:29,673 ERROR [Worker-382] - System.err - mar 30, 2017 8:07:29 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-30 12:07:29,104 ERROR [main] - System.err - mar 30, 2017 12:07:29 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-30 12:07:29,266 ERROR [Worker-405] - System.err - mar 30, 2017 12:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-30 12:07:29,851 ERROR [Worker-405] - System.err - mar 30, 2017 12:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-30 12:07:29,852 ERROR [Worker-405] - System.err - mar 30, 2017 12:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-30 12:07:29,895 ERROR [Worker-405] - System.err - mar 30, 2017 12:07:29 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-30 16:07:30,875 ERROR [main] - System.err - mar 30, 2017 4:07:29 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-30 16:07:31,211 ERROR [Worker-414] - System.err - mar 30, 2017 4:07:30 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-30 16:07:35,218 ERROR [Worker-414] - System.err - mar 30, 2017 4:07:35 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-30 16:07:35,219 ERROR [Worker-414] - System.err - mar 30, 2017 4:07:35 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-30 16:07:35,309 ERROR [Worker-414] - System.err - mar 30, 2017 4:07:35 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-30 20:07:34,838 ERROR [main] - System.err - mar 30, 2017 8:07:31 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-30 20:07:34,952 ERROR [Worker-442] - System.err - mar 30, 2017 8:07:32 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-30 20:07:39,096 ERROR [Worker-442] - System.err - mar 30, 2017 8:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-30 20:07:39,097 ERROR [Worker-442] - System.err - mar 30, 2017 8:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-30 20:07:39,218 ERROR [Worker-442] - System.err - mar 30, 2017 8:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-31 00:07:35,036 ERROR [main] - System.err - mar 31, 2017 12:07:34 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-31 00:07:35,398 ERROR [Worker-468] - System.err - mar 31, 2017 12:07:35 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-31 00:07:37,036 ERROR [Worker-468] - System.err - mar 31, 2017 12:07:37 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-31 00:07:37,037 ERROR [Worker-468] - System.err - mar 31, 2017 12:07:37 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-31 00:07:37,148 ERROR [Worker-468] - System.err - mar 31, 2017 12:07:37 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-31 04:07:35,205 ERROR [main] - System.err - mar 31, 2017 4:07:35 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-31 04:07:35,391 ERROR [Worker-481] - System.err - mar 31, 2017 4:07:35 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-31 04:07:36,076 ERROR [Worker-481] - System.err - mar 31, 2017 4:07:36 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-31 04:07:36,077 ERROR [Worker-481] - System.err - mar 31, 2017 4:07:36 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-31 04:07:36,162 ERROR [Worker-481] - System.err - mar 31, 2017 4:07:36 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-31 08:07:35,299 ERROR [main] - System.err - mar 31, 2017 8:07:35 AM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-31 08:07:35,346 ERROR [Worker-492] - System.err - mar 31, 2017 8:07:35 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-31 08:07:36,093 ERROR [Worker-492] - System.err - mar 31, 2017 8:07:36 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-31 08:07:36,117 ERROR [Worker-492] - System.err - mar 31, 2017 8:07:36 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-31 08:07:36,139 ERROR [Worker-492] - System.err - mar 31, 2017 8:07:36 AM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-31 12:07:37,331 ERROR [main] - System.err - mar 31, 2017 12:07:35 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-31 12:07:37,395 ERROR [Worker-516] - System.err - mar 31, 2017 12:07:36 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-31 12:07:41,304 ERROR [Worker-516] - System.err - mar 31, 2017 12:07:41 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-31 12:07:41,397 ERROR [Worker-516] - System.err - mar 31, 2017 12:07:41 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-31 12:07:41,775 ERROR [Worker-516] - System.err - mar 31, 2017 12:07:41 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-31 16:07:38,039 ERROR [main] - System.err - mar 31, 2017 4:07:37 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-31 16:07:38,603 ERROR [Worker-561] - System.err - mar 31, 2017 4:07:38 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-31 16:07:39,907 ERROR [Worker-561] - System.err - mar 31, 2017 4:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-31 16:07:39,908 ERROR [Worker-561] - System.err - mar 31, 2017 4:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-31 16:07:39,955 ERROR [Worker-561] - System.err - mar 31, 2017 4:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+2017-03-31 20:07:38,180 ERROR [main] - System.err - mar 31, 2017 8:07:38 PM com.vaadin.integration.eclipse.notifications.ContributionService schedulePollingJob
+INFORMACIÓN: Schedule fetching new notifications
+2017-03-31 20:07:38,360 ERROR [Worker-599] - System.err - mar 31, 2017 8:07:38 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService doGet
+INFORMACIÓN: Fetching all notifications
+2017-03-31 20:07:39,168 ERROR [Worker-599] - System.err - mar 31, 2017 8:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getStatusCode
+INFORMACIÓN: HTTP Response code :200
+2017-03-31 20:07:39,184 ERROR [Worker-599] - System.err - mar 31, 2017 8:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService getNotifications
+INFORMACIÓN: Parse notifications
+2017-03-31 20:07:39,214 ERROR [Worker-599] - System.err - mar 31, 2017 8:07:39 PM com.vaadin.integration.eclipse.notifications.model.NotificationsService saveCache
+INFORMACIÓN: Save JSON notifications content to cache file /Users/Admin/Documents/JavaT/java/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
