@@ -11,7 +11,7 @@ public class RTExcept {
 			System.out.println("hello ");
 			throwit();
 			RTExcept3 x = new RTExcept3();
-			x.xx();
+//			x.xx();
 //		} catch (Exception re) {
 //			System.out.println("caught ");
 //

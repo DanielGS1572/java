@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.vaadin.ui.TwinColSelect"/>
 <fullyQualifiedTypeName name="com.vaadin.shared.ui.datefield.Resolution"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.client.ui.HorizontalSplitPanel"/>
 <fullyQualifiedTypeName name="com.vaadin.ui.HorizontalSplitPanel"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 </qualifiedTypeNameHistroy>
