@@ -1,4 +1,5 @@
-package StrategyDesignPattern;
+package Strategy;
+
 //The interface is implemented by many other
 //subclasses that allow for many types of flying
 //without effecting Animal, or Flys.

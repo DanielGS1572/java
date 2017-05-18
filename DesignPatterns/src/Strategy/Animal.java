@@ -1,4 +1,5 @@
-package StrategyDesignPattern;
+package Strategy;
+
 
 public class Animal {
 
@@ -24,6 +25,23 @@ public class Animal {
 	// objects at run time!
 
 	public Flys flyingType;
+	
+	// Animal pushes off the responsibility for flying to flyingType
+	// getters and setter de si puede volar o no
+	public String tryToFly() {
+
+		return flyingType.fly();
+
+	}
+
+	// If you want to be able to change the flyingType dynamically
+	// add the following method
+
+	public void setFlyingAbility(Flys newFlyType) {
+
+		flyingType = newFlyType;
+
+	}
 
 	public void setName(String newName) {
 		name = newName;
@@ -87,21 +105,6 @@ public class Animal {
 	 * }
 	 */
 
-	// Animal pushes off the responsibility for flying to flyingType
 
-	public String tryToFly() {
-
-		return flyingType.fly();
-
-	}
-
-	// If you want to be able to change the flyingType dynamically
-	// add the following method
-
-	public void setFlyingAbility(Flys newFlyType) {
-
-		flyingType = newFlyType;
-
-	}
 
 }
