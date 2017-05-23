@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Thu Feb 09 20:33:19 CST 2017
-org.eclipse.jst.jee.server\:Binder=/Users/Admin/Documents/sts-bundle/pivotal-tc-server-developer-3.1.4.RELEASE/base-instance/wtpwebapps/Binder

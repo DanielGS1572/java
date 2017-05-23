@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;tienda3.scss&apos; to &apos;mytheme&apos;&#x0A;- Original project: &apos;Tienda3&apos;&#x0A;- Destination element: &apos;mytheme&apos;&#x0A;- Original element: &apos;tienda3.scss&apos;" description="Copy file" element1="WebContent/VAADIN/themes/tienda3/tienda3.scss" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1470758948463" target="/Liferay/src/main/webapp/VAADIN/themes/mytheme" units="0" version="1.0"/>
-</session>

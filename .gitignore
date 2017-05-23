@@ -8,9 +8,9 @@
 .project
 .settings/
 .settings/**
-.metadata/**
+.metadata/
 .recommenders/**
-
+*.metadata
 *.class
 *.project
 *.classpath

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="Binder"/>
-<aop-project name="FunWithControllers"/>
-<aop-project name="TestSpringProject"/>
-<aop-project name="spring-test"/>
-</aop-reference-model>
